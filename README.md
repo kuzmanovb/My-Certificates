@@ -13,10 +13,18 @@
 
 <hr>
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
-              <!-- React JS-->
+<!-- React JS-->
 <tbody>
 <tr>
-<td align="center" width="33%">Programming ReactJS <br> September 2020 <br> 01.03.2021 - 11.04.2021 </td>
+<td align="center" width="33%">Android Development with Kotlin <br> September 2022 <br> 14.09.2022 - 27.11.2022 </td>
+<td align="center" width="33%"> <br> Date of issue of certificate: 19.11.2022 <br> Grade: 5.58 </td >
+<td align="center" width="33%"><p><a title="ReactJS" href="https://softuni.bg/certificates/details/148211/464367e9" target="_blank">Certificate</a></p></td -->   
+</tr>
+</tbody>
+<!-- React JS-->
+<tbody>
+<tr>
+<td align="center" width="33%">Programming ReactJS <br> March 2020 <br> 01.03.2021 - 11.04.2021 </td>
 <td align="center" width="33%"> <br> Date of issue of certificate: 21.04.2021 <br> Grade: 6.00 </td >
 <td align="center" width="33%"><p><a title="ReactJS" href="https://softuni.bg/certificates/details/105614/5de69f57" target="_blank">Certificate</a></p></td -->   
 </tr>
@@ -29,7 +37,7 @@
 <td align="center" width="33%"><p><a title="C# ASP.Net Core" href="https://softuni.bg/certificates/details/96096/4d4db568" target="_blank">Certificate</a></p></td -->   
 </tr>
 </tbody>
-                <!-- C# Algorithms Fundamentals-->
+<!-- C# Algorithms Fundamentals-->
 <tbody>
 <tr>
 <td align="center" width="33%">Programming C# Algorithms Fundamentals<br> November 2020 <br> 19.11.2020 - 03.01.2021 </td>
@@ -37,7 +45,7 @@
 <td align="center" width="33%"><p><a title="C# Algorithms Fundamentals" href="https://softuni.bg/certificates/details/95988/235f7e02" target="_blank">Certificate</a></p></td -->   
 </tr>
 </tbody>
-      <!-- C# Web Basics-->
+<!-- C# Web Basics-->
 <tbody>
 <tr>
 <td align="center" width="33%">Programming C# Web Basics <br> September 2020 <br> 15.09.2020 - 26.10.2020 </td>
@@ -45,7 +53,7 @@
 <td align="center" width="33%"><p><a title="C# Web Basics" href="https://softuni.bg/certificates/details/91055/571054c5" target="_blank">Certificate</a></p></td -->   
 </tr>
 </tbody>
-    <!-- C# Entity Framework Core-->
+<!-- C# Entity Framework Core-->
 <tbody>
 <tr>
 <td align="center" width="33%">Programming C# Entity Framework Core <br> June 2020 <br> 22.06.2020 - 08.08.2020</td>
