@@ -16,8 +16,8 @@
 <!-- Software Engineering and DevOps -->
 <tbody>
 <tr>
-<td align="center" width="33%">Software Engineering and DevOps <br> October 2023 <br> 24.10.2023 - 23.12.2023 </td>
-<td align="center" width="33%"> <br> Date of issue of certificate: 19.11.2022 <br> Grade: 6.00 </td >
+<td align="center" width="33%">Software Engineering and DevOps <br> October 2023 <br> 24.10.2023 - 21.12.2023 </td>
+<td align="center" width="33%"> <br> Date of issue of certificate: 21.12.2023 <br> Grade: 6.00 </td >
 <td align="center" width="33%"><p><a title="Software Engineering" href="https://softuni.bg/certificates/details/201287/865be90c" target="_blank">Certificate</a></p></td -->   
 </tr>
 </tbody>
